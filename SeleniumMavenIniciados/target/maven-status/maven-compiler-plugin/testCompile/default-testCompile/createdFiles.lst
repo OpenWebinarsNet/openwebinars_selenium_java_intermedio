@@ -1,0 +1,5 @@
+page_objects/WikipediaPage.class
+page_objects/GooglePage.class
+tests/TestSelenium.class
+page_objects/GoogleSearchResultPage.class
+page_objects/BasePage.class

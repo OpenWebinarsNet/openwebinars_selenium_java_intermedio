@@ -1,0 +1,6 @@
+/home/jesus/eclipse-workspace/SeleniumMavenIniciadosCucumber/src/test/java/page_objects/GoogleSearchResultPage.java
+/home/jesus/eclipse-workspace/SeleniumMavenIniciadosCucumber/src/test/java/steps/StepsGoogleWikipedia.java
+/home/jesus/eclipse-workspace/SeleniumMavenIniciadosCucumber/src/test/java/runner/RunCucumberTest.java
+/home/jesus/eclipse-workspace/SeleniumMavenIniciadosCucumber/src/test/java/page_objects/GooglePage.java
+/home/jesus/eclipse-workspace/SeleniumMavenIniciadosCucumber/src/test/java/page_objects/WikipediaPage.java
+/home/jesus/eclipse-workspace/SeleniumMavenIniciadosCucumber/src/test/java/page_objects/BasePage.java

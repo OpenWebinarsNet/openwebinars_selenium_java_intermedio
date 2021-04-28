@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: runner.RunCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.475 sec <<< FAILURE!
+Buscar Wikipedia(Google busca wikipedia)  Time elapsed: 4.128 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Conferencia de Carnunto]> but was:<[Anexo:Filmografía de Arnold Schwarzenegger]>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at steps.StepsGoogleWikipedia.lambda$new$3(StepsGoogleWikipedia.java:50)
+	at ✽.El titulo del articulo bueno del dia es "Conferencia de Carnunto"(file:///home/jesus/eclipse-workspace/SeleniumMavenIniciadosCucumber/src/test/resources/features/feature_ejemplo.feature:6)
+

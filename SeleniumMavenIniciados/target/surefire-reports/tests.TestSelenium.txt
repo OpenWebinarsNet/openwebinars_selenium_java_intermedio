@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.TestSelenium
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.076 s <<< FAILURE! - in tests.TestSelenium
+testA  Time elapsed: 5.07 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Aquí irá el título del artículo bueno del día> but was: <Anexo:Filmografía de Arnold Schwarzenegger>
+	at tests.TestSelenium.testA(TestSelenium.java:50)
+
